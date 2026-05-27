@@ -1,4 +1,4 @@
-# Privacy Policy for MeetUp
+# Privacy Policy for DASH
 
 **Last Updated: March 24, 2026**
 
@@ -11,9 +11,9 @@ Location: Tübingen, Germany
 
 ## 1. Introduction
 
-This Privacy Policy explains how MeetUp ("the App," "we," "us," or "our") collects, uses, stores, and protects your personal information. By using MeetUp, you agree to the collection and use of information as described in this policy.
+This Privacy Policy explains how DASH ("the App," "we," "us," or "our") collects, uses, stores, and protects your personal information. By using DASH, you agree to the collection and use of information as described in this policy.
 
-MeetUp is an event-based messenger platform that helps you coordinate social events with friends. We take your privacy seriously and are committed to protecting your personal data in compliance with the General Data Protection Regulation (GDPR) and other applicable privacy laws.
+DASH is an event-based messenger platform that helps you coordinate social events with friends. We take your privacy seriously and are committed to protecting your personal data in compliance with the General Data Protection Regulation (GDPR) and other applicable privacy laws.
 
 ---
 
@@ -21,7 +21,7 @@ MeetUp is an event-based messenger platform that helps you coordinate social eve
 
 ### 2.1 Information You Provide Directly
 
-When you create an account and use MeetUp, we collect:
+When you create an account and use DASH, we collect:
 
 - **Username**: A display name you choose for your account
 - **Email Address**: Used for account creation and authentication
@@ -32,7 +32,7 @@ When you create an account and use MeetUp, we collect:
 
 When you use the App, we automatically collect:
 
-- **Phone Contacts**: Access to your phone's contact list to help you find and connect with friends who use MeetUp
+- **Phone Contacts**: Access to your phone's contact list to help you find and connect with friends who use DASH
 - **Location Data**: Geographic location information when you create or view events with location details
 - **Photos and Media**: Access to your device's camera and gallery when you choose to upload photos to events or your profile
 - **Device Information**: Device tokens for push notifications (iOS and Android), device type, and operating system
@@ -51,7 +51,7 @@ We use your personal information **solely for the operation of the App**. We do 
 Specifically, we use your information to:
 
 - **Authenticate Your Account**: Verify your identity and secure your account
-- **Connect You with Friends**: Match you with contacts in your phone who also use MeetUp
+- **Connect You with Friends**: Match you with contacts in your phone who also use DASH
 - **Enable Event Coordination**: Allow you to create, host, and attend social events
 - **Facilitate Communication**: Enable group chats for events you're participating in
 - **Send Notifications**: Deliver push notifications about events, invitations, and messages
@@ -115,7 +115,7 @@ We may share fully anonymized and aggregated data with academic research partner
 ### 4.4 Legal Requirements
 
 We may disclose your information if required by law, court order, or government regulation, or if necessary to:
-- Protect the rights, property, or safety of MeetUp, our users, or the public
+- Protect the rights, property, or safety of DASH, our users, or the public
 - Enforce our Terms of Service
 - Respond to legal claims or investigations
 
@@ -212,7 +212,7 @@ These tokens are necessary for the App to function and are not used for tracking
 
 ## 9. Children's Privacy
 
-MeetUp is intended for users aged **6 years and older**. We do not knowingly collect personal information from children without appropriate consent.
+DASH is intended for users aged **6 years and older**. We do not knowingly collect personal information from children without appropriate consent.
 
 If you are a parent or guardian and believe your child has provided us with personal information without your consent, please contact us at vin.pli@posteo.de, and we will promptly delete such information.
 
@@ -257,4 +257,4 @@ Email: vin.pli@posteo.de
 
 ---
 
-**By using MeetUp, you acknowledge that you have read and understood this Privacy Policy.**
+**By using DASH, you acknowledge that you have read and understood this Privacy Policy.**
