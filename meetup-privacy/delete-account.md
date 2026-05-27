@@ -1,4 +1,4 @@
-# Account Deletion — MeetUp
+# Account Deletion — DASH
 
 **Last Updated: April 7, 2026**
 
@@ -6,7 +6,7 @@
 
 ### Option 1: In-App Deletion
 
-1. Open the MeetUp app
+1. Open the DASH app
 2. Go to **Settings**
 3. Tap **Delete Account**
 4. Confirm the deletion
