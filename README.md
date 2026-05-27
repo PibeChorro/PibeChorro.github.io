@@ -32,7 +32,7 @@ When you create an account and use DASH, we collect:
 
 When you use the App, we automatically collect:
 
-- **Phone Contacts**: Access to your phone's contact list to help you find and connect with friends who use DASH. These data are not stored. They are used to compare your contacts with the userbase to let you know who of your contacts is using DASH
+- **Phone Contacts**: Access to your phone's contact list to help you find and connect with friends who use DASH. Phone numbers from contact lists are transmitted to our server solely to identify which contacts are also DASH users. They are not stored.
 - **Photos and Media**: Access to your device's camera and gallery when you choose to upload photos to events or your profile
 - **Device Information**: Device tokens for push notifications (iOS and Android), device type, and operating system
 
@@ -173,7 +173,7 @@ These tokens are necessary for the App to function and are not used for tracking
 
 ## 9. Children's Privacy
 
-DASH is intended for users aged **6 years and older**. We do not knowingly collect personal information from children without appropriate consent.
+DASH is not intended for users younger than **13 years**, since real time messaging with people they may only know through another person is possible. 
 
 If you are a parent or guardian and believe your child has provided us with personal information without your consent, please contact us at vin.pli@posteo.de, and we will promptly delete such information.
 
@@ -184,8 +184,38 @@ If you are a parent or guardian and believe your child has provided us with pers
 Your data is primarily processed and stored within the European Union and regions with adequate data protection standards. When data is processed outside the EU (such as through Firebase Cloud Messaging), we ensure appropriate safeguards are in place, such as Standard Contractual Clauses (SCCs) and compliance with GDPR requirements.
 
 ---
+## 11. Third-Party Services
 
-## 11. Changes to This Privacy Policy
+DASH uses the following third-party service providers to operate the app. 
+Each provider is bound by a data processing agreement and may only process 
+your data for the purposes described below.
+
+**Railway** (railway.app)  
+Hosts our backend infrastructure, including the application server, 
+PostgreSQL database, Redis cache, and Neo4j graph database. User account 
+data, chat messages, and event data are stored on Railway's servers in the EU.  
+Privacy Policy: https://railway.app/legal/privacy
+
+**Google Firebase Cloud Messaging**  
+Used to deliver push notifications to your device. Your device token is 
+transmitted to Firebase solely for notification delivery.  
+Privacy Policy: https://policies.google.com/privacy
+
+**Sentry** (sentry.io)  
+Used for backend error monitoring and crash reporting. When a server-side 
+error occurs, Sentry may capture technical data including your username and 
+request context to help diagnose the issue. This data is used exclusively 
+for debugging and improving app stability.  
+Privacy Policy: https://sentry.io/privacy/
+
+**Mailtrap** 
+Used to deliver transactional emails such as password reset links. Only 
+your email address is transmitted for this purpose.  
+Privacy Policy: (https://mailtrap.io/privacy/)
+
+---
+
+## 12. Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time to reflect changes in our practices or legal requirements. When we make significant changes, we will:
 - Update the "Last Updated" date at the top of this policy
@@ -196,7 +226,7 @@ Your continued use of the App after changes are posted constitutes acceptance of
 
 ---
 
-## 12. Contact Us
+## 13. Contact Us
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or your personal data, please contact us:
 
@@ -208,7 +238,7 @@ For GDPR-related inquiries, data deletion requests, or to exercise your privacy 
 
 ---
 
-## 13. Data Controller
+## 14. Data Controller
 
 The data controller responsible for your personal information is:
 
