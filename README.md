@@ -32,8 +32,7 @@ When you create an account and use DASH, we collect:
 
 When you use the App, we automatically collect:
 
-- **Phone Contacts**: Access to your phone's contact list to help you find and connect with friends who use DASH
-- **Location Data**: Geographic location information when you create or view events with location details
+- **Phone Contacts**: Access to your phone's contact list to help you find and connect with friends who use DASH. These data are not stored. They are used to compare your contacts with the userbase to let you know who of your contacts is using DASH
 - **Photos and Media**: Access to your device's camera and gallery when you choose to upload photos to events or your profile
 - **Device Information**: Device tokens for push notifications (iOS and Android), device type, and operating system
 
@@ -57,7 +56,6 @@ Specifically, we use your information to:
 - **Send Notifications**: Deliver push notifications about events, invitations, and messages
 - **Build Your Social Network**: Create connections between users based on accepted event invitations
 - **Maintain Security**: Protect your account and data from unauthorized access
-- **Support Scientific Research**: Generate anonymized, aggregated statistics about population-level usage patterns for non-commercial academic research (see Section 4.4)
 
 ---
 
@@ -71,8 +69,7 @@ We **do not** sell, rent, trade, or share your personal information with third p
 
 To operate the App, we use trusted third-party service providers that process data **solely on our behalf** to provide infrastructure services:
 
-- **Railway**: Hosts our backend server, PostgreSQL database (user credentials and chat history), and Redis (real-time chat infrastructure)
-- **Neo4j Aura**: Hosts our graph database that stores user relationships and event information
+- **Railway**: Hosts our backend server, PostgreSQL database (user credentials and chat history), Redis (real-time chat infrastructure) and Neo4j (graph database that stores user relationships and event information)
 - **Firebase Cloud Messaging (FCM)**: Google's service that delivers push notifications to your device
 
 These service providers:
@@ -81,38 +78,7 @@ These service providers:
 - Do not use your data for their own purposes
 - Comply with GDPR and other privacy regulations
 
-### 4.3 Anonymized Data for Scientific Research
-
-We may share fully anonymized and aggregated data with academic research partners for **non-commercial scientific research purposes only**. This collaboration aims to advance understanding of social network dynamics and group coordination behavior at the population level.
-
-**Anonymization safeguards:**
-- Before any data is shared, it undergoes irreversible de-identification such that **no individual user can be identified or re-identified** from the resulting dataset
-- Once anonymized, this data no longer constitutes personal data within the meaning of GDPR Recital 26
-- Industry-standard anonymization techniques are applied, including removal of all direct and indirect identifiers and aggregation of data points
-
-**Research restrictions:**
-- All analyses are conducted at the **population or sample level only**; individual-level analysis is never performed
-- Research findings describe only aggregate patterns and statistical trends across the user population — no individual user's behavior or identity can be discerned from such findings
-- Data is used solely for non-commercial, academic purposes and may not be used for profiling, marketing, or any purpose beyond scientific inquiry
-- Research partners are contractually prohibited from attempting to re-identify any individual from the anonymized data
-
-**Safeguards in accordance with GDPR Article 89(1):**
-- Appropriate technical and organizational measures are in place to ensure respect for the principle of data minimization
-- Only the minimum data necessary for the specific research question is included in any shared dataset
-- All research collaborations are subject to data sharing agreements that specify the permitted scope of use
-
-**What anonymized data may include (in aggregate form only):**
-- Network-level statistics (e.g., average number of connections, group sizes)
-- Event participation patterns (e.g., average attendance rates, event frequency distributions)
-- General usage patterns (e.g., feature adoption across the user base)
-
-**What is never shared:**
-- Usernames, email addresses, phone numbers, or any other directly identifying information
-- Message contents or individual chat data
-- Individual-level behavioral profiles or activity histories
-- Any data that could, alone or in combination, identify a specific user
-
-### 4.4 Legal Requirements
+### 4.3 Legal Requirements
 
 We may disclose your information if required by law, court order, or government regulation, or if necessary to:
 - Protect the rights, property, or safety of DASH, our users, or the public
@@ -130,7 +96,7 @@ Your data is stored in:
 - **Neo4j Graph Database**: User relationships, events, and social network connections
 - **Redis Cache**: Temporary data for real-time chat functionality
 
-All databases are hosted in secure cloud infrastructure (Railway and Neo4j Aura) with industry-standard security measures.
+All databases are hosted in secure cloud infrastructure (Railway) with industry-standard security measures.
 
 ### 5.2 Security Measures
 
@@ -153,14 +119,9 @@ We retain your account information (username, email, password, phone number) **u
 ### 6.2 Chat Data
 
 Chat messages and conversations are stored until the associated event is deleted. Events and their chat data are automatically deleted:
-- **One week after the event takes place**, OR
 - **When a user manually deletes the event**
 
-### 6.3 Anonymized Research Data
-
-Anonymized, aggregated data that has been shared for scientific research purposes is retained separately and is **not affected by individual account or event deletion**, as it contains no personally identifiable information and cannot be linked back to any individual user. This data exists only in aggregate, statistical form.
-
-### 6.4 No Personal Data Retained After Deletion
+### 6.3 No Personal Data Retained After Deletion
 
 We **do not** retain any personal data after account deletion or event deletion. All associated data is permanently removed from our databases.
 
