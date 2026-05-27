@@ -11,7 +11,7 @@
 3. Tap **Delete Account**
 4. Confirm the deletion
 
-Your account and all associated personal data will be **permanently deleted immediately**.
+Personal data is permanently removed from our active systems upon deletion. Encrypted backups may retain data for up to 7 days before automatic purging.
 
 ### Option 2: Email Request
 
@@ -32,12 +32,6 @@ When your account is deleted, the following data is **permanently removed** from
 - **Event data**: Events you are hosting or attending, including associated group chats
 - **Messages**: All chat messages you have sent
 - **Device tokens**: Push notification tokens
-
----
-
-## What Data Is NOT Affected
-
-- **Anonymized, aggregated research data**: Data that has already been anonymized and aggregated for scientific research purposes cannot be linked back to your account and is not affected by deletion. This data contains no personally identifiable information. See our [Privacy Policy](README.md) for details.
 
 ---
 
