@@ -1,6 +1,6 @@
 # Privacy Policy for DASH
 
-**Last Updated: March 24, 2026**
+**Last Updated: Mai 27, 2026**
 
 **Developer Contact:**
 Vincent Plikat
@@ -39,7 +39,7 @@ When you use the App, we automatically collect:
 ### 2.3 Chat and Event Data
 
 - **Messages**: Content of messages you send in event-based group chats
-- **Event Information**: Events you create or attend, including event names, descriptions, dates, times, and locations
+- **Event Information**: Events you create or attend, including event names, descriptions, dates, times, and locations (text description of where to meet - e.g., "in the park")
 
 ---
 
@@ -202,9 +202,7 @@ transmitted to Firebase solely for notification delivery.
 Privacy Policy: https://policies.google.com/privacy
 
 **Sentry** (sentry.io)  
-Used for backend error monitoring and crash reporting. When a server-side 
-error occurs, Sentry may capture technical data including your username and 
-request context to help diagnose the issue. This data is used exclusively 
+Used for backend error monitoring and crash reporting. Sentry captures technical error data including stack traces, request URLs, and performance metrics. No personally identifiable information is transmitted to Sentry. This data is used exclusively 
 for debugging and improving app stability.  
 Privacy Policy: https://sentry.io/privacy/
 
