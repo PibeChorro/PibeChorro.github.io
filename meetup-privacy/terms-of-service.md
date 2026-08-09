@@ -1,4 +1,4 @@
-# Terms of Service for MeetUp
+# Terms of Service for DASH
 
 **Last Updated: February 1, 2026**
 
@@ -11,7 +11,7 @@ Location: Tübingen, Germany
 
 ## 1. Acceptance of Terms
 
-By downloading, installing, or using MeetUp ("the App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.
+By downloading, installing, or using DASH ("the App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.
 
 These Terms constitute a legally binding agreement between you and Vincent Plikat ("Developer," "we," "us," or "our").
 
@@ -19,7 +19,7 @@ These Terms constitute a legally binding agreement between you and Vincent Plika
 
 ## 2. Description of Service
 
-MeetUp is an event-based messenger platform that enables users to:
+DASH is an event-based messenger platform that enables users to:
 - Create and host social events
 - Invite friends to events
 - Build a social network based on accepted event invitations
@@ -34,11 +34,11 @@ The App is designed to facilitate real offline social connections through short-
 
 ### 3.1 Minimum Age
 
-You must be at least **6 years old** to use MeetUp.
+You must be at least **6 years old** to use DASH.
 
 ### 3.2 Parental Consent
 
-If you are under the age of 18, you must have permission from your parent or legal guardian to use the App. By using MeetUp, you represent that you have obtained such permission.
+If you are under the age of 18, you must have permission from your parent or legal guardian to use the App. By using DASH, you represent that you have obtained such permission.
 
 ### 3.3 Account Accuracy
 
@@ -50,7 +50,7 @@ You agree to provide accurate, current, and complete information during registra
 
 ### 4.1 Account Creation
 
-To use MeetUp, you must create an account by providing:
+To use DASH, you must create an account by providing:
 - A unique username
 - A valid email address
 - A secure password
@@ -77,7 +77,7 @@ You may delete your account at any time through the App's settings. Account dele
 
 ### 5.1 Acceptable Use
 
-You agree to use MeetUp in a lawful and respectful manner. You will not:
+You agree to use DASH in a lawful and respectful manner. You will not:
 
 ### 5.2 Prohibited Content
 
@@ -142,7 +142,7 @@ You may not:
 
 ### 7.1 "AS IS" Basis
 
-MeetUp is provided **"AS IS"** and **"AS AVAILABLE"** without warranties of any kind, either express or implied.
+DASH is provided **"AS IS"** and **"AS AVAILABLE"** without warranties of any kind, either express or implied.
 
 **The Developer makes no warranties or representations regarding:**
 - The accuracy, reliability, or completeness of the App
@@ -175,7 +175,7 @@ We do not guarantee that:
 
 ### 8.2 Early-Stage Software
 
-MeetUp is in early-stage development. You acknowledge that the App may contain bugs, errors, or incomplete features, and you use the App at your own risk.
+DASH is in early-stage development. You acknowledge that the App may contain bugs, errors, or incomplete features, and you use the App at your own risk.
 
 ### 8.3 No Liability for User Content
 
@@ -205,7 +205,7 @@ You agree to indemnify, defend, and hold harmless Vincent Plikat from any claims
 
 ### 10.1 Third-Party Integrations
 
-MeetUp integrates with third-party services (such as Firebase Cloud Messaging, Railway, Neo4j Aura) to provide functionality. We are not responsible for the privacy practices, content, or services provided by these third parties.
+DASH integrates with third-party services (such as Firebase Cloud Messaging, Railway, Neo4j Aura) to provide functionality. We are not responsible for the privacy practices, content, or services provided by these third parties.
 
 ### 10.2 External Links
 
@@ -308,7 +308,7 @@ If any provision of these Terms is found to be invalid, illegal, or unenforceabl
 
 ## 17. Entire Agreement
 
-These Terms, together with the Privacy Policy, constitute the entire agreement between you and Vincent Plikat regarding your use of MeetUp and supersede any prior agreements or understandings.
+These Terms, together with the Privacy Policy, constitute the entire agreement between you and Vincent Plikat regarding your use of DASH and supersede any prior agreements or understandings.
 
 ---
 
@@ -332,10 +332,10 @@ For legal inquiries or dispute resolution, please email vin.pli@posteo.de with t
 
 ## 20. Acknowledgment
 
-By using MeetUp, you acknowledge that:
+By using DASH, you acknowledge that:
 - You have read and understood these Terms of Service
 - You agree to be bound by these Terms
 - You have read and understood the Privacy Policy
 - You are at least 6 years old (or have parental consent if under 18)
 
-**Thank you for using MeetUp!**
+**Thank you for using DASH!**
